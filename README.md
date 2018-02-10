@@ -1,5 +1,5 @@
-# E-voting-portal-mobile
-An internet based electronic voting system - android
+# E-voting-portal-server
+Server side code for e-voting-portals - web, and android
 
 E-voting repos:
 - [E-voting-server](https://github.com/BroFOSS/E-voting-server): Server side code for e-voting-portals - web, and android
