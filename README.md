@@ -1,4 +1,4 @@
-# E-voting-portal-server
+# E-voting-server
 Server side code for e-voting-portals - web, and android
 
 E-voting repos:
