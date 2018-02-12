@@ -1,0 +1,23 @@
+{
+  "name": "e-voting-api",
+  "version": "1.0.0",
+  "description": "API for e-Voting applications.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "E-Voting",
+    "Voting",
+    "API"
+  ],
+  "author": "Ravi Teja Gannavarapu",
+  "license": "GNU GPL v3",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "mysql": "^2.15.0"
+  }
+}
